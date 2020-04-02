@@ -1,0 +1,57 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  text-align: center;
+  color: gold;
+  font-size: 60px;
+  font-family: fantasy;
+}
+
+h3 {
+  text-align: center;
+  color: purple;
+  font-family: times;
+  font-size: 35px;
+  text-decoration: underline;
+  margin-top: 50px;
+}
+
+.Bilde {
+  width: 200px;
+  border-radius: 50%;
+  border-color: black;
+  border-width: thick;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+}
+
+.Galicia {
+  font-weight: bold;
+  font-family: cursive;
+  color: white;
+}
+
+.Madrid {
+  font-weight: bolder;
+  color: red;
+}
+
+.Granada {
+  font-style: italic;
+  color: green;
+}
+
+.Sevilla {
+  font-family: sans-serif;
+  color: yellow;
+}
